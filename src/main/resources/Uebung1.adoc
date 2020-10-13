@@ -38,3 +38,64 @@ Entscheiden Sie, ob es sich bei den Sätzen um Aussagen handelt und negieren Sie
 |Diana ist am Sonntag mindestens 100 km geradelt.
 |true
 |===
+
+
+== Aufgabe 1.2
+Seien p und q die Aussagen „Schwimmen in der Ostsee ist erlaubt“ und „In der Ostsee wurden Quallen
+gesichtet“. Formulieren Sie jede der untenstehenden logischen Aussagen als einen deutschen Satz.
+
+=== a) ¬q
+In der Ostsee wurden *keine* Quallen gesichtet
+
+
+=== b) ¬p ∨ q
+Schwimmen in der Ostsee ist nicht erlaubt oder Quallen wurden gesichtet.
+
+=== c) p ⇒ ¬q
+Falls schwimmen in der Ostsee ist erlaubt is, wurden keine Quallen gesichtet.
+
+=== d) ¬q ⇒ p
+Falls keine Quallen gesichtet wurden, ist das Schwimmen in der Ostsee erlaubt.
+
+=== e) q < (p ∧ ¬q)
+Es sind weniger Quallen gesichtet worden, als wenn schwimmen erlaubt war und keine Quallen gesichtet wurden.
+
+
+== AUFGABE 1.3
+
+Seien m und s die Aussagen m : „Es hat Minusgrade.“ s : „Es schneit.“.
+Formulieren Sie die folgenden Sätze als zusammengesetzte logische Aussagen.
+
+=== a) Es hat Minusgrade und es schneit.
+=== b) Es hat Minusgrade, aber es schneit nicht.
+=== c) Es hat keine Minusgrade und es schneit nicht.
+=== d) Es schneit, es hat Minusgrade, oder beides.
+=== e) Wenn es Minusgrade hat, dann schneit es auch.
+=== f) Entweder hat es Minusgrade oder es schneit, aber es schneit nicht, wenn es Minusgrade hat.
+
+== AUFGABE 1.4
+Sind die folgenden Systemspezifikationen konsistent?
+
+=== a) Dann und nur dann arbeitet das System normal, wenn es sich im Multiuser-Modus befindet.
+=== b) Das System arbeitet nicht normal oder das System befindet sich im Interrupt-Modus.
+=== c) Wenn sich das System nicht im Multiuser-Modus befindet, dann befindet es sich im Interrupt-Modus.
+=== d) Das System befindet sich nicht im Interrupt-Modus.
+
+== AUFGABE 1.5
+Sind diese Systemspezifikationen konsistent? (Beachten Sie, dass die im technischen Englisch gern ver-
+wendeten Begriffe „q is necessary for p“ und „p only if q“ Beschreibungen der Aussage p ⇒ q sind.)
+
+
+=== a) The router can send packets to the edge system only if it supports the new address space.
+=== b) For the router to support the new address space it is necessary that the latest software release be installed.
+=== c) The router can send packets to the edge system if the latest software release is installed.
+=== d) The router does not support the new address space.
+
+== AUFGABE 1.6
+
+Seien p, q und r logische Aussagen. Welche der folgenden zusammengesetzten Aussagen sind allgemein-
+gültig?
+
+=== A~1~ : (p ⇒ q) ⇔ (q ⇒ p) )
+=== A~2~ : (p ⇔ q) ⇔ (q ⇔ p)
+=== A~3~ : ((p ⇒ q) ∧ (q ⇒ r)) ⇔ (p ⇒ r)
