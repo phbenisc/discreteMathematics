@@ -1,0 +1,6 @@
+Apply product and sum rule (where applicable): How many bit strings are there
+a) of length eight?
+b) of length ten both that begin and end with a 1?
+c) of length six or less, not counting the empty string?
+d) with length not exceeding n ∈ N, that consist entirely of 1s, not counting the empty string?
+e) of length n ∈ N0?

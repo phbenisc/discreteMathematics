@@ -1,0 +1,1 @@
+Sie fangen in der Logistik-Abteilung eines Krankenhauses ein Praktikum an. Sie lesen in einer Zusammenfassung über das Pflegepersonal: Es gibt 849 pflegerisch tätige Personen. Davon sind 210 in der Intensivpflege tätig, 705 der Pflegepersonen sind Frauen. Können Sie eine Aussage über die Anzahl der Frauen in der Intensivpflege machen?

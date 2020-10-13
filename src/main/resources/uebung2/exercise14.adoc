@@ -1,0 +1,8 @@
+Ein Hersteller von Modelleisenbahnen bietet seinen Kunden einen historischen Zug an, für den es sechs
+verschiedene Waggontypen gibt. Unter wie vielen Waggonzusammenstellungen für seinen Zug kann ein
+Kunde wählen, wenn er
+a) sieben Waggons kaufen möchte,
+b) vier Waggons kaufen möchte,
+c) vier Waggons kaufen möchte und jeder Waggontyp nur noch einmal vorhanden ist?
+d) Wie viele Zusammenstellungen kann ein Kunde vornehmen, wenn er von fünf Waggontypen je ein
+Exemplar gekauft hat und alle diese Waggons in den Zug unterbringen will?

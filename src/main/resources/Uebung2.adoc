@@ -1,0 +1,54 @@
+= Übungsblatt 2 - Kombinatorik
+
+== Zählen
+=== AUFGABE 1.1 BIT STRINGS
+include::uebung2/exercise01.adoc[]
+
+=== AUFGABE 1.2 PASSWORDS
+include::uebung2/exercise02.adoc[]
+
+=== AUFGABE 1.3 IM MUSEUM
+include::uebung2/exercise03.adoc[]
+
+=== AUFGABE 1.4 PERSONAL IM KRANKENHAUS
+include::uebung2/exercise04.adoc[]
+
+=== AUFGABE 1.5
+include::uebung2/exercise05.adoc[]
+
+== Das Taubenschlag-Prinzip
+
+=== AUFGABE 1.6
+include::uebung2/exercise06.adoc[]
+
+=== AUFGABE 1.7
+include::uebung2/exercise07.adoc[]
+
+=== AUFGABE 1.8
+include::uebung2/exercise08.adoc[]
+
+=== AUFGABE 1.9
+include::uebung2/exercise09.adoc[]
+
+=== AUFGABE 1.10
+include::uebung2/exercise10.adoc[]
+
+== Permutationen und Kombinationen
+
+=== AUFGABE 1.11
+include::uebung2/exercise11.adoc[]
+
+=== AUFGABE 1.12
+include::uebung2/exercise12.adoc[]
+
+=== AUFGABE 1.13
+include::uebung2/exercise13.adoc[]
+
+=== AUFGABE 1.14
+include::uebung2/exercise14.adoc[]
+
+=== AUFGABE 1.15
+include::uebung2/exercise15.adoc[]
+
+=== AUFGABE 1.16
+include::uebung2/exercise16.adoc[]

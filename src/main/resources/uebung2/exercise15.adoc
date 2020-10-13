@@ -1,0 +1,7 @@
+A bagel shop has onion bagels, poppy seed bagels, egg bagels, salty bagels, pumpernickel bagels, sesame
+seed bagels, raisin bagels, and plain bagels. Assume that each type of bagel exists in a large quantity.
+How many ways are there to choose
+a) six bagels?
+b) a dozen bagels?
+c) two dozen bagels?
+d) a dozen bagels with at least one of each kind?

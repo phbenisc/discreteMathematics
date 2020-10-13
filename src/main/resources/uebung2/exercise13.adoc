@@ -1,0 +1,9 @@
+Vier Freundinnen treffen sich, um endlich mal wieder alle ihre Lieblingsspiele zu spielen.
+
+==== TEILAUFGABE 2.13.1
+Jede Freundin bringt ihr Lieblingsspiel mit. Wie viele mögliche Anordnungen der Spiele (welches wird als
+1., als 2,. . . . gespielt) gibt es, wenn alle Spiele gespielt werden?
+
+==== TEILAUFGABE 2.13.2 2 PUNKTE
+Kurz nach Mitternacht bitten die Spielerinnen einen Pizzaservice um die Lieferung von vier Pizzen, wobei es ihnen nicht auf die Pizzasorte ankommt. Unter wie vielen Sorten-Zusammenstellungen (für seine
+Lieferung) kann der Pizzabäcker wählen, wenn er sieben verschiedene Pizzasorten zur Auswahl hat?

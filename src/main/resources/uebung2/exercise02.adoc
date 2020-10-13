@@ -1,0 +1,7 @@
+Suppose that a password for a computer system must have at least 8, but no more than 12, characters,
+where each character in the password is a lowercase English letter, an uppercase English letter, a digit, or
+one of the six special characters ∗,>,<, !,+, and =. Each character may occur multiple times.
+a) How many different passwords are available for this computer system?
+b) How many of these passwords contain at least one occurrence of at least one of the six special characters?
+c) Using your answer to part (a), determine how long it takes a hacker to try every possible password,
+assuming that it takes one nanosecond (10^−9^ seconds) for a hacker to check each possible password.

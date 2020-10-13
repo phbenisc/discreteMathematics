@@ -1,0 +1,3 @@
+a) How many different strings can be made from the letters in MISSISSIPPI, reusing all the letters?
+b) How many different strings can be made from the letters in ABRACADABRA, reusing all the letters?
+c) How many strings with eight or nine characters can be formed using the letters in EVERGREEN?

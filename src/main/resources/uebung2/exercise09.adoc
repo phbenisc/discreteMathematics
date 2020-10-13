@@ -1,0 +1,5 @@
+We condsider a computer network that consists of six computers.
+a) Each computer is directly connected to at least one of the other computers.
+b) Each computer is directly connected to zero or more of the other computers.
+Show that for both cases, there are at least two computers in the network that are directly connected to
+the same number of other computers.

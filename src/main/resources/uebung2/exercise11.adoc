@@ -1,0 +1,19 @@
+Stellen Sie sich vor, in einer Tüte Gummibärchen befinden sich Bärchen in 7 verschiedenen Farben.
+
+==== GUMMIBÄRCHENORAKEL 2.0
+
+Für eine Befragung des Orakels ziehen Sie blind 5 Bärchen aus der Tüte.
+Wie viele Möglichkeiten für verschiedene Farbkombinationen gibt es, wenn Sie die Reihenfolge in welcher
+Sie die Bärchen ziehen
+a) beachten?
+b) nicht beachten?
+Geben Sie an, nach welchem Prinzip Sie Ihre Lösung ermittelt haben.
+
+==== GUMMIBÄRCHENORAKEL 3.0
+
+Für eine Befragung des Orakels ziehen Sie aus einem Gefäß, in dem sich 7 Bärchen in den 7 verschiedenen
+Farben befinden, blind 5 Bärchen.
+Wie viele Möglichkeiten für verschiedene Bärchen-Anordnungen gibt es, wenn Sie die Reihenfolge in welcher Sie die Bärchen ziehen
+a) beachten?
+b) nicht beachten?
+Geben Sie an, nach welchem Prinzip Sie Ihre Lösung ermittelt haben.

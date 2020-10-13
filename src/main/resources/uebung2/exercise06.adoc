@@ -1,0 +1,6 @@
+Sie sind auf einer Party mit 25 Gästen. Es werden 5 verschiedene Getränke und 3 verschiedene Snacks
+angeboten. Nehmen Sie an, dass jeder Gast ein Getränk und einen Snack in der Hand hat.
+
+a) Können Sie angeben ob und wenn ja wie viele Gäste es gibt, die im gleichen Monat Geburtstag haben?
+b) Können Sie angeben ob und wenn ja wie viele Gäste es gibt, die am gleichen Tag Geburtstag haben?
+c) Können Sie angeben ob und wenn ja wie viele Gäste es gibt, die sowohl den gleichen Snack, als auch das gleiche Getränk gewählt haben?

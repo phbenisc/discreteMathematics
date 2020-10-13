@@ -1,0 +1,14 @@
+Ein Museum hat 20 Bilder im Depot stehen.
+
+a) In der Inventarliste des Museums ist angegeben ist, dass
+
+1) alle 20 Bilder gerahmt sind, 10 einen Rahmen mit Holzanteil, 13 einen Rahmen mit Metallanteil
+und 7 einen Rahmen mit Metall- und Holzanteil besitzen,
+2) alle 20 Bilder mit Farben gearbeitet sind, davon 13 mit Kreide, 12 mit Aquarellfarben und 5 mit
+Kreide und Aquarellfarben.
+
+Stimmen diese Angaben?
+
+
+b) Weiterhin steht in der Liste, dass 45% der Bilder von einem Künstler, 70% der Bilder von einer Künstlerin geschaffen wurden. Gibt es Bilder, die von einem Künstler und einer Künstlerin (gemeinsam)
+geschaffen wurden? Wenn ja, wie viele?

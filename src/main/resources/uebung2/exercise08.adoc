@@ -1,0 +1,4 @@
+A company stores products in a warehouse. Storage bins in this warehouse are specified by their aisle,
+location in the aisle, and shelf. There are 50 aisles, 85 horizontal locations in each aisle, and 5 shelves
+throughout the warehouse. What is the least number of products the company can have so that at least
+two products must be stored in the same bin?

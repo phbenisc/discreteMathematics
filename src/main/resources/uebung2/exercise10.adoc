@@ -1,0 +1,18 @@
+==== TEILAUFGABE 2.10.1
+
+Wie viele verschiedene mögliche Initialen gibt es, wenn diese
+a) zweistellig (jeweils die ersten Buchstaben von Vor- und Nachname, „Max Xaver Mustermann“ = MM)
+b) dreistellig (jeweils die ersten Buchstaben von erstem und zweitem Vornamen und Nachname, „Max
+Xaver Mustermann“ = MXM) (unter der Annahme, dass alle Menschen zwei Vornamen haben)
+c) vierstellig (jeweils die ersten zwei Buchstaben von Vor- und Nachname, „Max Xaver Mustermann“ =
+MAMU)
+gebildet werden?
+
+==== TEILAUFGABE 2.10.2
+
+Eine Firma hat 18000 Mitarbeiter. Können Sie mit Sicherheit sagen, ob und wenn ja wie viel Mitarbeiter
+mindestens die selben
+a) zweistelligen
+b) dreistelligen
+c) vierstelligen
+Initialen haben?
