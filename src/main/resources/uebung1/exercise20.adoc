@@ -1,0 +1,5 @@
+Zeigen Sie mit Hilfe eines Induktionsbeweises folgenden Sachverhalt:
+Für jede reelle Zahl r 6 = 1 und jede natürliche Zahl n gilt
+
+
+TODO FORMEL

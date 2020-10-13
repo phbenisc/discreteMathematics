@@ -84,7 +84,8 @@
                         </goals>
 
                         <configuration>
-                            <backend>pdf</backend>
+                            <preserveDirectories>true</preserveDirectories>
+                            <backend>html</backend>
                             <sourceHighlighter>coderay</sourceHighlighter>
                             <attributes>
                                 <icons>font</icons>

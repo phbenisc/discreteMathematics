@@ -1,101 +1,64 @@
 = Übungsblatt 1 - Logik
 
 == Aufgabe 1.1
-Entscheiden Sie, ob es sich bei den Sätzen um Aussagen handelt und negieren Sie die Aussagen.
-
-|===
-| |Aussage |Ergebnis
-
-|a
-|Mia hat einen MP3-Player (oder mehrere).
-|true
-
-|b
-|Der Sommer war warm.
-|true
-
-|c
-|Wird der Herbst warm werden?
-|false
-
-|d
-|2 + 1 = 3
-|true
-
-|e
-|2 + x = 3
-|false, x unbekannt
-
-|f
-|Stefan hat mehr als 100 GB auf seiner Festplatte frei.
-|true
-
-|g
-|Jennifer blockiert Nachrichten und Anrufe von Zacharias.
-|true
-
-|h
-|Diana ist am Sonntag mindestens 100 km geradelt.
-|true
-|===
-
+include::uebung1/exercise01.adoc[]
 
 == Aufgabe 1.2
-Seien p und q die Aussagen „Schwimmen in der Ostsee ist erlaubt“ und „In der Ostsee wurden Quallen
-gesichtet“. Formulieren Sie jede der untenstehenden logischen Aussagen als einen deutschen Satz.
-
-=== a) ¬q
-In der Ostsee wurden *keine* Quallen gesichtet
-
-
-=== b) ¬p ∨ q
-Schwimmen in der Ostsee ist nicht erlaubt oder Quallen wurden gesichtet.
-
-=== c) p ⇒ ¬q
-Falls schwimmen in der Ostsee ist erlaubt is, wurden keine Quallen gesichtet.
-
-=== d) ¬q ⇒ p
-Falls keine Quallen gesichtet wurden, ist das Schwimmen in der Ostsee erlaubt.
-
-=== e) q < (p ∧ ¬q)
-Es sind weniger Quallen gesichtet worden, als wenn schwimmen erlaubt war und keine Quallen gesichtet wurden.
-
+include::uebung1/exercise02.adoc[]
 
 == AUFGABE 1.3
-
-Seien m und s die Aussagen m : „Es hat Minusgrade.“ s : „Es schneit.“.
-Formulieren Sie die folgenden Sätze als zusammengesetzte logische Aussagen.
-
-=== a) Es hat Minusgrade und es schneit.
-=== b) Es hat Minusgrade, aber es schneit nicht.
-=== c) Es hat keine Minusgrade und es schneit nicht.
-=== d) Es schneit, es hat Minusgrade, oder beides.
-=== e) Wenn es Minusgrade hat, dann schneit es auch.
-=== f) Entweder hat es Minusgrade oder es schneit, aber es schneit nicht, wenn es Minusgrade hat.
+include::uebung1/exercise03.adoc[]
 
 == AUFGABE 1.4
-Sind die folgenden Systemspezifikationen konsistent?
-
-=== a) Dann und nur dann arbeitet das System normal, wenn es sich im Multiuser-Modus befindet.
-=== b) Das System arbeitet nicht normal oder das System befindet sich im Interrupt-Modus.
-=== c) Wenn sich das System nicht im Multiuser-Modus befindet, dann befindet es sich im Interrupt-Modus.
-=== d) Das System befindet sich nicht im Interrupt-Modus.
+include::uebung1/exercise04.adoc[]
 
 == AUFGABE 1.5
-Sind diese Systemspezifikationen konsistent? (Beachten Sie, dass die im technischen Englisch gern ver-
-wendeten Begriffe „q is necessary for p“ und „p only if q“ Beschreibungen der Aussage p ⇒ q sind.)
-
-
-=== a) The router can send packets to the edge system only if it supports the new address space.
-=== b) For the router to support the new address space it is necessary that the latest software release be installed.
-=== c) The router can send packets to the edge system if the latest software release is installed.
-=== d) The router does not support the new address space.
+include::uebung1/exercise05.adoc[]
 
 == AUFGABE 1.6
+include::uebung1/exercise06.adoc[]
 
-Seien p, q und r logische Aussagen. Welche der folgenden zusammengesetzten Aussagen sind allgemein-
-gültig?
+== AUFGABE 1.7
+include::uebung1/exercise07.adoc[]
 
-=== A~1~ : (p ⇒ q) ⇔ (q ⇒ p) )
-=== A~2~ : (p ⇔ q) ⇔ (q ⇔ p)
-=== A~3~ : ((p ⇒ q) ∧ (q ⇒ r)) ⇔ (p ⇒ r)
+== AUFGABE 1.8
+include::uebung1/exercise08.adoc[]
+
+== AUFGABE 1.9
+include::uebung1/exercise09.adoc[]
+
+== AUFGABE 1.10
+include::uebung1/exercise10.adoc[]
+
+== AUFGABE 1.11
+include::uebung1/exercise11.adoc[]
+
+== AUFGABE 1.12
+include::uebung1/exercise12.adoc[]
+
+== AUFGABE 1.13
+include::uebung1/exercise13.adoc[]
+
+== AUFGABE 1.14
+include::uebung1/exercise14.adoc[]
+
+== AUFGABE 1.15
+include::uebung1/exercise15.adoc[]
+
+== AUFGABE 1.16
+include::uebung1/exercise16.adoc[]
+
+== AUFGABE 1.17
+include::uebung1/exercise17.adoc[]
+
+== AUFGABE 1.18
+include::uebung1/exercise18.adoc[]
+
+== AUFGABE 1.19
+include::uebung1/exercise19.adoc[]
+
+== AUFGABE 1.20
+include::uebung1/exercise20.adoc[]
+
+== AUFGABE 1.21
+include::uebung1/exercise21.adoc[]

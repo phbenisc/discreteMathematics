@@ -1,0 +1,10 @@
+You are about to leave for school in the morning and discover that you don’t have your glasses. You know
+the following statements are true:
+
+(a) If I was reading the newspaper in the kitchen, then my glasses are on the kitchen table.
+(b) If my glasses are on the kitchen table, then I saw them at breakfast.
+(c) I did not see my glasses at breakfast.
+(d) I was reading the newspaper in the living room or I was reading the newspaper in the kitchen.
+(e) If I was reading the newspaper in the living room then my glasses are on the coffee table.
+
+Where are my glasses?

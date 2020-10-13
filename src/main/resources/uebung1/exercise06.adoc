@@ -1,0 +1,6 @@
+Seien p, q und r logische Aussagen. Welche der folgenden zusammengesetzten Aussagen sind allgemein-
+gültig?
+
+=== A~1~ : (p ⇒ q) ⇔ (q ⇒ p) )
+=== A~2~ : (p ⇔ q) ⇔ (q ⇔ p)
+=== A~3~ : ((p ⇒ q) ∧ (q ⇒ r)) ⇔ (p ⇒ r)

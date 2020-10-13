@@ -1,0 +1,31 @@
+TODO FORMATTING
+
+Alle Menschen haben dieselbe Größe: Beweis durch vollständige Induktion nach der Zahl n ∈ N einer
+Gruppe von n Menschen.
+Induktionsanfang: n = 1. Hier ist die Behauptung offensichtlich korrekt.
+Induktionsschritt: Es sei eine Gruppe von n + 1 Personen gegeben. Eine wird abgesondert. Die rest-
+lichen n Personen haben nach Induktionsannahme dieselbe Größe. Nun nehme die abgesonderte
+Person zur Gruppe dazu und entferne eine andere Person der Gruppe. Wieder haben nach Indukti-
+onsannahme diese n Personen dieselbe Größe, was den Induktionsbeweis komplettiert.
+1 + 1 = 0: Es gilt −1 = −1 Damit auch
+−1
+1
+1 = −1 .
+Wenn
+man
+q
+q auf beiden Seiten nun die Wurzel zieht, folgt:
+−1
+1
+1
+= −1
+⇒ 1 i = 1i .
+Multipliziert man nun auf beiden Seite die komplexe Zahl i, dann folgt:
+i 2
+1 = 1 ⇒ −1 = 1 ⇒ 1 + 1 = 0.
+p
+p
+p
+p
+p
+1 = −1: 1 = 1 = −1 · −1 = −1 · −1 = ( −1) 2 = i 2 = −1

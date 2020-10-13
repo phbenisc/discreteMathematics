@@ -1,0 +1,6 @@
+Verneinen Sie:
+
+=== A: ∀x : x ≥ 5
+=== B: ∀x : x 2 − 3 = 1
+=== C: Alle Fische sind Freunde.
+=== D: Es gibt mindestens einen Hai, der ein schlechter Jäger ist.

@@ -1,0 +1,6 @@
+On an island there live two types of people: knights who always tell the truth and knaves who always lie.
+You visit the island and are approached by two natives who speak to you as follows:
+
+A says: B is a knight.
+B says: A and I are of opposite type.
+What are A and B?

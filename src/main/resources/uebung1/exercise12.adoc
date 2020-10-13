@@ -1,0 +1,7 @@
+Geben Sie an, welche Ableitungsregeln für die folgenden Argumentationen verwendet wurden.
+
+=== a) Alice is a mathematics major. Therefore, Alice is either a mathematics major or a computer science major.
+=== b) Jerry is a mathematics major and a computer science major. Therefore, Jerry is a mathematics major.
+=== c) If it is rainy, then the pool will be closed. It is rainy. Therefore, the pool is closed.
+=== d) If it snows today, the university will close. The university is not closed today. Therefore, it did not snow today.
+=== e) If I go swimming, then I will stay in the sun too long. If I stay in the sun too long, then I will sunburn. Therefore, if I go swimming, then I will sunburn.

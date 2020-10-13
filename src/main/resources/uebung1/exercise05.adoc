@@ -1,0 +1,8 @@
+Sind diese Systemspezifikationen konsistent? (Beachten Sie, dass die im technischen Englisch gern ver-
+wendeten Begriffe „`q is necessary for p`“ und „`p only if q`“ Beschreibungen der Aussage p ⇒ q sind.)
+
+
+=== a) The router can send packets to the edge system only if it supports the new address space.
+=== b) For the router to support the new address space it is necessary that the latest software release be installed.
+=== c) The router can send packets to the edge system if the latest software release is installed.
+=== d) The router does not support the new address space.

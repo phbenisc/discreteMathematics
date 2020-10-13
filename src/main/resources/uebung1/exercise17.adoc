@@ -1,0 +1,12 @@
+Begründen Sie (empfehlenswert: Verwendung von Resolutionen, oder per Beweis durch Widerspruch),
+dass das folgende Argument richtig ist:
+
+[quote, Yoda, The Internet (I think)]
+
+____
+Wenn Superman in der Lage und willig ist, Unheil zu verhindern, dann würde er es tun. Wenn
+Superman nicht in der Lage ist, Unheil zu verhindern, dann ist er unfähig. Wenn Superman
+nicht willig ist, Unheil zu verhindern, dann ist er bösartig. Superman verhindert kein Unheil.
+Wenn Superman existiert, dann ist er weder unfähig noch bösartig. Deswegen existiert Super-
+man nicht.
+____

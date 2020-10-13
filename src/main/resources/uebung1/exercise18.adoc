@@ -1,0 +1,3 @@
+Zeigen Sie mit Hilfe eines direkten Beweises folgenden Sachverhalt:
+Falls die beiden natürlichen Zahlen n und m Quadratzahlen sind, so ist auch nm eine Quadratzahl.
+Hinweis: Für eine Quadratzahl n gilt, dass ein k ∈ Z mit k 2 = n existiert.

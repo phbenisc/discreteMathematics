@@ -1,0 +1,5 @@
+Zeigen Sie folgenden Sachverhalt:
+Falls für eine ganze Zahl n die Summe 3n + 2 ungerade ist, so ist auch n ungerade.
+
+=== a) Verwenden Sie einen Beweises durch Kontraposition.
+=== b) Verwenden Sie einen Beweis durch Widerspruch.

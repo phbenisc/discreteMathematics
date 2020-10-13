@@ -1,0 +1,10 @@
+Beurteilen Sie, ob die folgenden Sätze und Formeln Aussagen oder Aussageformen sind. Geben Sie (so
+möglich) den Wahrheitswert an.
+
+=== A~1~ : n 2 = 4
+=== A~2~ : ∃ n∈N n 2 = 4
+=== A~3~ : ∀ n∈N n 2 = 4
+=== B~1~ : Alle Filme werden in Hollywood produziert.
+=== B~2~ : Es gibt Filme, die in Hollywood produziert werden.
+=== B~3~ : Ein Film wurde in Hollywood produziert.
+=== B~3~ : „Matrix“ wurde in Hollywood produziert.

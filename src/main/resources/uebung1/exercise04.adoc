@@ -1,0 +1,6 @@
+Sind die folgenden Systemspezifikationen konsistent?
+
+=== a) Dann und nur dann arbeitet das System normal, wenn es sich im Multiuser-Modus befindet.
+=== b) Das System arbeitet nicht normal oder das System befindet sich im Interrupt-Modus.
+=== c) Wenn sich das System nicht im Multiuser-Modus befindet, dann befindet es sich im Interrupt-Modus.
+=== d) Das System befindet sich nicht im Interrupt-Modus.
