@@ -1,0 +1,17 @@
+==== TEILAUFGABE 3.6.1
+a) Stellen Sie (10101.1)2
+im Dezimalsystem dar.
+b) Stellen Sie (23.25)10 im Dualsystem dar.
+c) Stellen Sie (23.25)10 im Oktalsystem dar
+d) Stellen Sie (23.25)10 im Hexadezimalsystem dar.
+e) Stellen Sie (2D)16 im Dezimalsystem dar
+f) Stellen Sie (123)5
+im Dezimalsystem dar
+g) Stellen Sie (1200)3
+im Dezimalsystem dar
+
+==== TEILAUFGABE 3.6.2
+Sie treffen eine außerirdische Spezies, die zwei Hände mit einmal 2 und einmal 3 Fingern hat. Daher
+verwendet diese Spezies ein Stellenwertsystem zur Basis 5. Wie würde diese Spezies bis zu (unserer 20)
+zählen?
+Geben Sie alle Zahlen von 1-20 zur Basis 5 an.

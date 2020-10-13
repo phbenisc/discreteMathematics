@@ -1,0 +1,12 @@
+==== TEILAUFGABE 3.11.1
+Finden Sie (mit Hilfe der Primfaktorisierung) den ggT und das kgV von
+a) 1000 und 625
+b) 111 und 729
+c) 250 und 80
+
+
+==== TEILAUFGABE 3.11.2
+Finden Sie (z.B. mittels des euklidischen Algorithmus) den ggT und die Bézout-Koeffizienten für
+a) 10 und 11
+b) 21 und 44
+c) 55 und 34

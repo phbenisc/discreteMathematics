@@ -1,0 +1,32 @@
+==== TEILAUFGABE 3.4.1
+Geben Sie alle Elemente von Z8
+sowie die Mächtigkeit dieser Menge an.
+TEILAUFGABE 3.4.2 VERKNÜPFUNGEN IN Z8
+Geben Sie mit Hilfe von Tabellen (den sogenannten Verknüpfungstafeln) die Ergebnisse aller in Z8 möglichen Additionen und Multiplikationen (+8 und ·8
+) an.
+
+==== TEILAUFGABE 3.4.3 INVERSE ELEMENTE
+Nutzen Sie Ihre Ergebnisse aus Aufgabe 3.4.2 und geben Sie für jedes e ∈ Z8 die additiv und multiplikativ
+inversen Elemente an (falls diese existieren).
+Begründen Sie, weshalb Sie auch ohne die Multiplikationstabelle hätten angeben können, für welche Elemente in Z8 die multiplikativ Inversen existieren.
+
+==== TEILAUFGABE 3.4.4 GRUPPEN
+Sind (Z8
+,+8
+) und (Z8
+,·8
+) jeweils Gruppen? Vielleicht sogar kommutativ?
+Geben Sie für jedes der Ihnen bekannten Kritieren, welche (kommutative) Gruppen erfüllen müssen, an,
+ob diese in (Z8
+,+8
+) und (Z8
+,·8
+) erfüllt sind oder nicht.
+
+
+==== TEILAUFGABE 3.4.5 KÖRPER UND RINGE
+Nutzen Sie die Ergebnisse aus Aufgabe 3.4.4 um zu beantworten, ob (Z8
+,+8
+,·8
+) ein Körper oder ein Ring,
+bzw. vielleicht sogar ein spezieller Ring ist.

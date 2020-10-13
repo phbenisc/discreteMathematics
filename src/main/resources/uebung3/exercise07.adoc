@@ -1,0 +1,11 @@
+==== TEILAUFGABE 3.7.1
+Führen Sie die angegebenen Rechenoperationen (händisch, am besten schriftlich) im jeweiligen Stellenwertsystem aus:
+a) (1000111)2 + (1110111)2
+b) (101)2
+·(111)2
+c) (7)8
+·(4)8
+d) (763)8
+·(147)8
+e) (A)16 ·(10)16
+f) (1AE)16 + (BBC)16

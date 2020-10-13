@@ -1,0 +1,14 @@
+==== TEILAUFGABE 3.5.1
+Zeigen Sie, dass für n, m ∈ N und n | m, sowie a, b ∈ N gilt:
+a ≡ b (mod m) ⇒ a ≡ b (mod n)
+
+==== TEILAUFGABE 3.5.2
+Widerlegen Sie
+a) Seien a, b,c, m ∈ Z sowie m ≥ 2. Dann gilt
+ac ≡ bc (mod m) ⇒ a ≡ b (mod m)
+.
+b) Seien a, b ∈ Z,c, d, m ∈ N sowie m ≥ 2. Dann gilt
+a ≡ b (mod m) ∧ c ≡ d (mod m) ⇒ a
+c ≡ b
+d
+(mod m).

@@ -1,0 +1,15 @@
+=== TEILAUFGABE 3.2.1
+Finden Sie a div m und a mod m für
+a) a = 228, m = 119
+b) a = 9009, m = 223
+c) a = −10101, m = 333
+d) a = −765432, m = 38271
+
+=== TEILAUFGABE 3.2.2
+Seien a, b ∈ Z mit a ≡ 4 (mod 13), und b ≡ 9 (mod 13). Finden Sie c ∈ N0 mit 0 ≤ c ≤ 12 so dass
+a) c ≡ 9a (mod 13)
+b) c ≡ 11b (mod 13)
+c) c ≡ a + b (mod 13)
+d) c ≡ 2a + 3b (mod 13)
+e) c ≡ a2 + b2 (mod 13)
+f) c ≡ a3 − b3 (mod 13)

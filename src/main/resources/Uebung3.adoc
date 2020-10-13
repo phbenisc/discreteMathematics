@@ -1,0 +1,40 @@
+= Übungsblatt 3
+
+== Binomialkoeffizienten
+
+=== AUFGABE 1.1 BEWEISEN SIE
+include::uebung3/exercise01.adoc[]
+
+== Teilbarkeit und Zahlendarstellung
+
+=== AUFGABE 1.2
+include::uebung3/exercise02.adoc[]
+
+=== AUFGABE 1.3
+include::uebung3/exercise03.adoc[]
+
+=== AUFGABE 1.4
+include::uebung3/exercise04.adoc[]
+
+=== AUFGABE 1.5
+include::uebung3/exercise05.adoc[]
+
+=== AUFGABE 1.6
+include::uebung3/exercise06.adoc[]
+
+=== AUFGABE 1.7
+include::uebung3/exercise07.adoc[]
+
+=== AUFGABE 1.8
+include::uebung3/exercise08.adoc[]
+
+== Primzahlen und Teiler|
+
+=== AUFGABE 1.9
+include::uebung3/exercise09.adoc[]
+
+=== AUFGABE 1.10
+include::uebung3/exercise10.adoc[]
+
+=== AUFGABE 1.11
+include::uebung3/exercise11.adoc[]

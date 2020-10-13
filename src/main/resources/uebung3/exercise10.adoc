@@ -1,0 +1,17 @@
+==== TEILAUFGABE 3.10.1
+Finden Sie heraus ob die folgenden Zahlen Primzahlen sind. Falls nein, geben Sie deren Primzahlzerlegung
+an. Methode: Probedivisionsverfahren ohne Taschenrechner (bin auf d)) auch in der Klausur erwartbar.
+a) 97
+b) 111
+c) 143
+d) 729
+
+==== TEILAUFGABE 3.10.2
+Gegeben Seien folgende Zahlenfolgen ai
+. Finden Sie eine Formel / einen Zusammenhang zwischen dem
+nten Term der Folge an und den Primzahlen bzw. der Primfaktorisierung (z.B. der nten Primzahl bzw. der
+Primfaktorisierung von n).
+a) 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, . . .
+b) 1, 2, 3, 2, 5, 2, 7, 2, 3, 2, 11, 2, 13, 2, . . .
+c) 1, 2, 3, 3, 5, 5, 7, 7, 7, 7, 11, 11, 13, 13, . . .
+d) 1, 2, 6, 30, 210, 2310, 30030, 510510, 9699690, 223092870, . . .

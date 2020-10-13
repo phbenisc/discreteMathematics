@@ -1,0 +1,19 @@
+Gegeben Seien die Zahlen
+a) a = 28
+b) b = 13
+c) c = −11
+d) d = −6
+
+==== TEILAUFGABE 3.3.1
+Berechnen Sie für a, b,c, d jeweils die Reste modulo 3, 4 und 5
+
+==== TEILAUFGABE 3.3.2
+Welche der Zahlen a, b,c, d sind unter den Modulen 3,4,5 kongruent?
+
+==== TEILAUFGABE 3.3.3
+Vereinfachen Sie folgende Rechnung zuerst mit Hilfe der Ihnen bekannten modularen Reste der Zahlen
+a, b,c, d (siehe Aufgabe 3.3.1), und lösen Sie diese dann.
+a) a + b mod 3
+b) a + c mod 4
+c) b · d mod 3
+d) d · a mod 5

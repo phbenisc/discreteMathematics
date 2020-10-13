@@ -1,0 +1,15 @@
+==== TEILAUFGABE 3.9.1
+Machen Sie sich zuerst klar, was der Unterschied zwischen Teilern und Primfaktoren ist. Geben Sie dann
+für die folgenden Zahlen jeweils alle Teiler und deren Primfaktorzerlegung an.
+a) w = 20
+b) x = 24
+c) y = 28
+d) z = 29
+
+==== TEILAUFGABE 3.9.2
+Bestimmen Sie für die folgenden Zahlen jeweils den ggT und geben Sie dann an, ob die Zahlen teilerfremd
+sind oder nicht.
+a) 8 und 12
+b) 8 und 9
+c) 51 und 34
+d) 13 und 37
