@@ -1,0 +1,40 @@
+= Übungsblatt 1 - Logik
+
+== Aufgabe 1.1
+Entscheiden Sie, ob es sich bei den Sätzen um Aussagen handelt und negieren Sie die Aussagen.
+
+|===
+| |Aussage |Ergebnis
+
+|a
+|Mia hat einen MP3-Player (oder mehrere).
+|true
+
+|b
+|Der Sommer war warm.
+|true
+
+|c
+|Wird der Herbst warm werden?
+|false
+
+|d
+|2 + 1 = 3
+|true
+
+|e
+|2 + x = 3
+|false, x unbekannt
+
+|f
+|Stefan hat mehr als 100 GB auf seiner Festplatte frei.
+|true
+
+|g
+|Jennifer blockiert Nachrichten und Anrufe von Zacharias.
+|true
+
+|h
+|Diana ist am Sonntag mindestens 100 km geradelt.
+|true
+|===
