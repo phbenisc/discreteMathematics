@@ -1,5 +1,4 @@
-Sind diese Systemspezifikationen konsistent? (Beachten Sie, dass die im technischen Englisch gern ver-
-wendeten Begriffe „`q is necessary for p`“ und „`p only if q`“ Beschreibungen der Aussage p ⇒ q sind.)
+Sind diese Systemspezifikationen konsistent? (Beachten Sie, dass die im technischen Englisch gern verwendeten Begriffe „`q is necessary for p`“ und „`p only if q`“ Beschreibungen der Aussage p ⇒ q sind.)
 
 
 === a) The router can send packets to the edge system only if it supports the new address space.
