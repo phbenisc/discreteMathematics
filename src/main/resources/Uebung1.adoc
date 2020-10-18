@@ -1,4 +1,5 @@
 = Übungsblatt 1 - Logik
+:stem:
 
 == Aufgabe 1.1
 include::uebung1/exercise01.adoc[]
