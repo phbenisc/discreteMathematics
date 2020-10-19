@@ -13,7 +13,7 @@ jobs:
           java-version: 11
       - name: Maven compile
         run: mvn clean verify
-      - name: Archive code coverage results
+      - name: upload docs
         uses: actions/upload-artifact@v2
         with:
           name: docs
