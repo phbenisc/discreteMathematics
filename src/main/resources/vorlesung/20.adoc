@@ -1,0 +1,6 @@
+latexmath:[\neg ( \neg p \cap q) \cap (p \cup q) \equiv p ]
+
+latexmath:[ (p \cup \neg q) \cap (p \cup q) \equiv p ]
+
+latexmath:[ p \cup (p \cup q) \equiv p ]
+
