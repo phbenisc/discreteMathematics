@@ -3,10 +3,10 @@
 
 == Propositional Logic|
 
-=== Aufgabe 1.1
+=== AUFGABE 1.1
 include::uebung1/exercise01.adoc[]
 
-=== Aufgabe 1.2
+=== AUFGABE 1.2
 include::uebung1/exercise02.adoc[]
 
 === AUFGABE 1.3
