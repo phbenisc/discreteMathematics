@@ -1,10 +1,10 @@
 Sei L(x, y) die Aussageform „x liebt y“ für x und y jeweils beliebige Menschen der Menge M aller Men-
 schen. Verwenden Sie Quantoren um folgende Sätze als logische Aussagen zu formulieren:
 
-=== a) Jeder liebt Angela.
-=== b) Jeder liebt irgendjemanden.
-=== c) Es gibt irgendjemanden, der von allen geliebt wird.
-=== d) Niemand liebt jeden.
-=== e) Es gibt jemanden, den Lydia nicht liebt.
-=== f) Jeder liebt sich selbst.
-=== g) Es gibt jemanden, der niemanden liebt außer sich selbst.
+==== a) Jeder liebt Angela.
+==== b) Jeder liebt irgendjemanden.
+==== c) Es gibt irgendjemanden, der von allen geliebt wird.
+==== d) Niemand liebt jeden.
+==== e) Es gibt jemanden, den Lydia nicht liebt.
+==== f) Jeder liebt sich selbst.
+==== g) Es gibt jemanden, der niemanden liebt außer sich selbst.

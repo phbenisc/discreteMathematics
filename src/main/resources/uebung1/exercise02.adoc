@@ -1,19 +1,19 @@
 Seien p und q die Aussagen „Schwimmen in der Ostsee ist erlaubt“ und „In der Ostsee wurden Quallen
 gesichtet“. Formulieren Sie jede der untenstehenden logischen Aussagen als einen deutschen Satz.
 
-=== a) ¬q
+==== a) ¬q
 In der Ostsee wurden *keine* Quallen gesichtet
 
 
-=== b) ¬p ∨ q
+==== b) ¬p ∨ q
 Schwimmen in der Ostsee ist nicht erlaubt oder Quallen wurden gesichtet.
 
-=== c) p ⇒ ¬q
+==== c) p ⇒ ¬q
 Falls schwimmen in der Ostsee ist erlaubt is, wurden keine Quallen gesichtet.
 
-=== d) ¬q ⇒ p
+==== d) ¬q ⇒ p
 Falls keine Quallen gesichtet wurden, ist das Schwimmen in der Ostsee erlaubt.
 
-=== e) q < (p ∧ ¬q)
+==== e) q < (p ∧ ¬q)
 Es sind weniger Quallen gesichtet worden, als wenn schwimmen erlaubt war und keine Quallen gesichtet wurden.
 

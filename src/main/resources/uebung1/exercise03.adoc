@@ -1,20 +1,20 @@
 Seien m und s die Aussagen m : „Es hat Minusgrade.“ s : „Es schneit.“.
 Formulieren Sie die folgenden Sätze als zusammengesetzte logische Aussagen.
 
-=== a) Es hat Minusgrade und es schneit.
+==== a) Es hat Minusgrade und es schneit.
 latexmath:[m\cap s]
 
-=== b) Es hat Minusgrade, aber es schneit nicht.
+==== b) Es hat Minusgrade, aber es schneit nicht.
 latexmath:[m\cap \neg s]
 
-=== c) Es hat keine Minusgrade und es schneit nicht.
+==== c) Es hat keine Minusgrade und es schneit nicht.
 latexmath:[\neg m\cap \neg s]
 
-=== d) Es schneit, es hat Minusgrade, oder beides.
+==== d) Es schneit, es hat Minusgrade, oder beides.
 latexmath:[s \cup m]
 
-=== e) Wenn es Minusgrade hat, dann schneit es auch.
+==== e) Wenn es Minusgrade hat, dann schneit es auch.
 latexmath:[m \rightarrow s]
 
-=== f) Entweder hat es Minusgrade oder es schneit, aber es schneit nicht, wenn es Minusgrade hat.
+==== f) Entweder hat es Minusgrade oder es schneit, aber es schneit nicht, wenn es Minusgrade hat.
 latexmath:[(m \oplus s)]

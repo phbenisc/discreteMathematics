@@ -1,6 +1,6 @@
 Welche relevante(n) Schlussfolgerung(en) können aus den folgenden Prämissen jeweils gezogen werden?
 Begründen Sie Ihre Meinung, indem Sie die Ableitungsregeln angeben, die Sie verwendet haben.
 
-=== a) „Wenn ich scharfes Essen esse, dann träume ich komisch.“, „Ich träume komisch, wenn es donnert während ich schlafe.“, “Ich habe nicht komisch geträumt.“
-=== b) „Ich bin schlau oder glücklich.“, „Ich bin nicht glücklich.“, „Wenn ich glücklich bin, gewinne ich im Lotto.“
-=== c) „Jeder Informatik Studierende hat einen Laptop.“, „Ralph hat keinen Laptop.“, „Anne hat einen Laptop.“
+==== a) „Wenn ich scharfes Essen esse, dann träume ich komisch.“, „Ich träume komisch, wenn es donnert während ich schlafe.“, “Ich habe nicht komisch geträumt.“
+==== b) „Ich bin schlau oder glücklich.“, „Ich bin nicht glücklich.“, „Wenn ich glücklich bin, gewinne ich im Lotto.“
+==== c) „Jeder Informatik Studierende hat einen Laptop.“, „Ralph hat keinen Laptop.“, „Anne hat einen Laptop.“

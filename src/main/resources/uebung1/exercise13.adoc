@@ -1,6 +1,6 @@
 Bestimmen Sie für alle der folgenden Argumente, ob diese korrekt oder nicht korrekt sind und begründen Sie Ihre Meinung.
 
-=== a) Alle Studierenden dieses Kurses verstehen Logik. Xavier ist ein Student des Kurses. Daher versteht Xavier Logik.
-=== b) Jeder Informatik Studierende hört Mathematik. Natascha hört Mathematik. Daher studiert Natascha Informatik.
-=== c) Alle Papageien mögen Obst. Mein Vogel Cora ist kein Papagei. Daher mag Cora kein Obst.
-=== d) Jeder der jeden Tag Müsli isst, ist gesund. Linda ist nicht gesund. Daher isst Linda nicht jeden Tag Müsli.
+==== a) Alle Studierenden dieses Kurses verstehen Logik. Xavier ist ein Student des Kurses. Daher versteht Xavier Logik.
+==== b) Jeder Informatik Studierende hört Mathematik. Natascha hört Mathematik. Daher studiert Natascha Informatik.
+==== c) Alle Papageien mögen Obst. Mein Vogel Cora ist kein Papagei. Daher mag Cora kein Obst.
+==== d) Jeder der jeden Tag Müsli isst, ist gesund. Linda ist nicht gesund. Daher isst Linda nicht jeden Tag Müsli.

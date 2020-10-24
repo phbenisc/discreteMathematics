@@ -1,65 +1,71 @@
 = Übungsblatt 1 - Logik
 :stem:
 
-== Aufgabe 1.1
+== Propositional Logic|
+
+=== Aufgabe 1.1
 include::uebung1/exercise01.adoc[]
 
-== Aufgabe 1.2
+=== Aufgabe 1.2
 include::uebung1/exercise02.adoc[]
 
-== AUFGABE 1.3
+=== AUFGABE 1.3
 include::uebung1/exercise03.adoc[]
 
-== AUFGABE 1.4
+=== AUFGABE 1.4
 include::uebung1/exercise04.adoc[]
 
-== AUFGABE 1.5
+=== AUFGABE 1.5
 include::uebung1/exercise05.adoc[]
 
-== AUFGABE 1.6
+=== AUFGABE 1.6
 include::uebung1/exercise06.adoc[]
 
-== AUFGABE 1.7
+== Predicate Logic
+
+=== AUFGABE 1.7
 include::uebung1/exercise07.adoc[]
 
-== AUFGABE 1.8
+=== AUFGABE 1.8
 include::uebung1/exercise08.adoc[]
 
-== AUFGABE 1.9
+=== AUFGABE 1.9
 include::uebung1/exercise09.adoc[]
 
-== AUFGABE 1.10
+=== AUFGABE 1.10
 include::uebung1/exercise10.adoc[]
 
-== AUFGABE 1.11
+=== AUFGABE 1.11
 include::uebung1/exercise11.adoc[]
 
-== AUFGABE 1.12
+=== AUFGABE 1.12
 include::uebung1/exercise12.adoc[]
 
-== AUFGABE 1.13
+== Inference
+
+=== AUFGABE 1.13
 include::uebung1/exercise13.adoc[]
 
-== AUFGABE 1.14
+=== AUFGABE 1.14
 include::uebung1/exercise14.adoc[]
 
-== AUFGABE 1.15
+=== AUFGABE 1.15
 include::uebung1/exercise15.adoc[]
 
-== AUFGABE 1.16
+=== AUFGABE 1.16
 include::uebung1/exercise16.adoc[]
 
-== AUFGABE 1.17
+=== AUFGABE 1.17
 include::uebung1/exercise17.adoc[]
 
-== AUFGABE 1.18
+=== AUFGABE 1.18
 include::uebung1/exercise18.adoc[]
 
-== AUFGABE 1.19
+=== AUFGABE 1.19
 include::uebung1/exercise19.adoc[]
 
-== AUFGABE 1.20
+=== AUFGABE 1.20
 include::uebung1/exercise20.adoc[]
 
-== AUFGABE 1.21
+=== AUFGABE 1.21
 include::uebung1/exercise21.adoc[]

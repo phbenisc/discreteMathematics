@@ -6,22 +6,22 @@ Folgendes sei gegeben:
 • Aussageform L(m, p): „m liebt p“ (kurz für „m liebt es in p zu programmieren“ )
 • Alice, Bob und Charlie: MSI-Studierende, also Menschen aus M .
 
-=== TEILAUFGABE 1.10.1
+==== TEILAUFGABE 1.10.1
 Formulieren Sie die folgenden logischen Aussagen in Ihren eigenen Worten als deutsche Sätze:
 
-==== a) K(Alice, Java) ⊕ L(Alice, Scala)
-==== b) ∀ m∈{Alice,Bob,Charlie} L(m, Python)
-==== c) ∀ m∈M ∃ p∈P K(m, p)
-==== d) ∃ p∈P ∀ m∈M K(m, p)
-==== e) ∃ p∈P ∃ m∈M L(m, p)
-==== f) ∀ p∈P ∀ m∈M L(m, p)
+===== a) K(Alice, Java) ⊕ L(Alice, Scala)
+===== b) ∀ m∈{Alice,Bob,Charlie} L(m, Python)
+===== c) ∀ m∈M ∃ p∈P K(m, p)
+===== d) ∃ p∈P ∀ m∈M K(m, p)
+===== e) ∃ p∈P ∃ m∈M L(m, p)
+===== f) ∀ p∈P ∀ m∈M L(m, p)
 
-=== TEILAUFGABE 1.10.2
+==== TEILAUFGABE 1.10.2
 
 Formulieren Sie folgende Sätze als zusammengesetzte logische Aussagen (mit Quantoren bei Bedarf).
 
-==== a) Alle MSI-Studierenden können entweder in Java oder in Scala programmieren, oder in beiden Sprachen.
-==== b) Es gibt keinen MSI-Studierenden, der C# liebt.
-==== c) Bob kann in Scala programmieren, wenn er nicht in Java programmieren kann.
-==== d) Es gibt mindestens eine Programmiersprache, die von allen MSI-Studierenden gekonnt und geliebt wird.
-==== e) Für alle MSI-Studierenden existiert mindestens eine Programmiersprache, die sie weder können noch lieben.
+===== a) Alle MSI-Studierenden können entweder in Java oder in Scala programmieren, oder in beiden Sprachen.
+===== b) Es gibt keinen MSI-Studierenden, der C# liebt.
+===== c) Bob kann in Scala programmieren, wenn er nicht in Java programmieren kann.
+===== d) Es gibt mindestens eine Programmiersprache, die von allen MSI-Studierenden gekonnt und geliebt wird.
+===== e) Für alle MSI-Studierenden existiert mindestens eine Programmiersprache, die sie weder können noch lieben.

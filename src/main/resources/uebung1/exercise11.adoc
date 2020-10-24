@@ -1,5 +1,5 @@
 Drücken Sie die folgenden Systemspezifikationen als logische Aussage aus, indem Sie Prädikate, Quantoren und logische Konnektoren verwenden.
 
-=== a) At least one mail message, among the nonempty set of messages, can be saved if there is a disk with  more than 10 kilobytes of free space.
-=== b) Whenever there is an active alert, all queued messages are transmitted.
-=== c) The diagnostic monitor tracks the status of all systems except the main console.
+==== a) At least one mail message, among the nonempty set of messages, can be saved if there is a disk with  more than 10 kilobytes of free space.
+==== b) Whenever there is an active alert, all queued messages are transmitted.
+==== c) The diagnostic monitor tracks the status of all systems except the main console.
