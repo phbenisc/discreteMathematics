@@ -1,6 +1,25 @@
 Verneinen Sie:
 
-==== A: ∀x : x ≥ 5
-==== B: ∀x : x 2 − 3 = 1
+==== A: latexmath:[\forall x : x \geq 5]
+
+latexmath:[\forall x : x < 5]
+
+==== B: latexmath:[\forall x : x 2 − 3 = 1 ]
+
+vereinfachen
+
+latexmath:[\forall x : x^2 − 3 = 1 ]
+
+latexmath:[x^2 = 4 ]
+
+negieren
+
+latexmath:[\forall x : x^2 \neq 4 ]
+
 ==== C: Alle Fische sind Freunde.
+
+Alle Fische können sich nicht ausstehen.
+
 ==== D: Es gibt mindestens einen Hai, der ein schlechter Jäger ist.
+
+Es gibt keinen Hai der ein schlechter Jäger ist.

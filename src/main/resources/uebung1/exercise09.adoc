@@ -1,5 +1,4 @@
-Sei L(x, y) die Aussageform „x liebt y“ für x und y jeweils beliebige Menschen der Menge M aller Men-
-schen. Verwenden Sie Quantoren um folgende Sätze als logische Aussagen zu formulieren:
+Sei L(x, y) die Aussageform „x liebt y“ für x und y jeweils beliebige Menschen der Menge M aller Menschen. Verwenden Sie Quantoren um folgende Sätze als logische Aussagen zu formulieren:
 
 ==== a) Jeder liebt Angela.
 ==== b) Jeder liebt irgendjemanden.
